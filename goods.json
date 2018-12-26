@@ -1,0 +1,44 @@
+[
+	{
+		"category": 0,
+		"id": 0,
+		"name": "山东红富士",
+		"price": "100/箱",
+		"image": "https://images.unsplash.com/photo-1514339013457-0fcf969367df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+	},
+	{
+		"category": 0,
+		"id": 1,
+		"name": "美国蛇果",
+		"price": "10/个",
+		"image": "https://images.unsplash.com/photo-1514339013457-0fcf969367df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+	},
+	{
+		"category": 0,
+		"id": 2,
+		"name": "新疆冰糖心",
+		"price": "10/斤",
+		"image": "https://images.unsplash.com/photo-1514339013457-0fcf969367df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+	},
+	{
+		"category": 1,
+		"id": 0,
+		"name": "车厘子",
+		"price": "10/个",
+		"image": "https://images.unsplash.com/photo-1514339013457-0fcf969367df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+	},
+	{
+		"category": 1,
+		"id": 1,
+		"name": "柚子",
+		"price": "100/箱",
+		"image": "https://images.unsplash.com/photo-1514339013457-0fcf969367df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+	},
+	{
+		"category": 1,
+		"id": 2,
+		"name": "橘子",
+		"price": "10/个",
+		"image": "https://images.unsplash.com/photo-1514339013457-0fcf969367df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+	}
+]
